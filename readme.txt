@@ -1,2 +1,2 @@
-git is a happy game
-git is free software and git is a project
+git is a distributed version control system
+git is free software distributed under the GPL
